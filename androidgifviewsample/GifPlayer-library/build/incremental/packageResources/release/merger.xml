@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res" >
+            <file
+                name="main"
+                path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="icon"
+                path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/values/strings.xml"
+                qualifiers="" >
+                <string name="pause" >pause
+                </string>
+                <string name="app_name" >GifPlayer
+                </string>
+                <string name="next_frame" >next frame
+                </string>
+                <string name="stop" >stop
+                </string>
+                <string name="prev_frame" >prev frame
+                </string>
+                <string name="play" >play
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/drawable/icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="break_droid"
+                path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/drawable/break_droid.gif"
+                qualifiers=""
+                type="drawable" />
+        </source>
+        <source path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/build/res/rs/release" />
+        <source path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/build/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/src/release/res" />
+    </dataSet>
+
+</merger>

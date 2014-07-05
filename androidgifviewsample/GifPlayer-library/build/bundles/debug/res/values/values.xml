@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/osabe/work/IDEA-workspace/AndroidGifViewSample/GifPlayer-library/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">GifPlayer</string>
+    <string name="next_frame">next frame</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="prev_frame">prev frame</string>
+    <string name="stop">stop</string>
+
+</resources>

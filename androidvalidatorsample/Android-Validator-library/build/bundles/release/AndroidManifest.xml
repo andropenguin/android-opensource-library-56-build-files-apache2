@@ -1,0 +1,4 @@
+<!-- From: file:/home/osabe/work/IDEA-workspace/AndroidValidatorSample/Android-Validator-library/AndroidManifest.xml -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="10600" android:versionName="1.6.0" package="com.throrinstudio.android.common.libs.validator">
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19"/>
+</manifest>

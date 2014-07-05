@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res" >
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-am/__internal_strings.xml"
+                qualifiers="am" >
+                <string name="ringtone_silent" >"ፀጥታ"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-sr/__internal_strings.xml"
+                qualifiers="sr" >
+                <string name="ringtone_silent" >"Нечујно"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-es-rUS/__internal_strings.xml"
+                qualifiers="es-rUS" >
+                <string name="ringtone_silent" >"Silencioso"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-ko/__internal_strings.xml"
+                qualifiers="ko" >
+                <string name="ringtone_silent" >"무음"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-lv/__internal_strings.xml"
+                qualifiers="lv" >
+                <string name="ringtone_silent" >"Klusums"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-pt/__internal_strings.xml"
+                qualifiers="pt" >
+                <string name="ringtone_silent" >"Silencioso"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-ru/__internal_strings.xml"
+                qualifiers="ru" >
+                <string name="ringtone_silent" >"Без звука"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-ar/__internal_strings.xml"
+                qualifiers="ar" >
+                <string name="ringtone_silent" >"صامت"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-ro/__internal_strings.xml"
+                qualifiers="ro" >
+                <string name="ringtone_silent" >"Silenţios"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-nl/__internal_strings.xml"
+                qualifiers="nl" >
+                <string name="ringtone_silent" >"Stil"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-da/__internal_strings.xml"
+                qualifiers="da" >
+                <string name="ringtone_silent" >"Lydløs"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-af/__internal_strings.xml"
+                qualifiers="af" >
+                <string name="ringtone_silent" >"Stil"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-sw/__internal_strings.xml"
+                qualifiers="sw" >
+                <string name="ringtone_silent" >"Kimya"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-hu/__internal_strings.xml"
+                qualifiers="hu" >
+                <string name="ringtone_silent" >"Néma"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-nb/__internal_strings.xml"
+                qualifiers="nb" >
+                <string name="ringtone_silent" >"Stille"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-pt-rPT/__internal_strings.xml"
+                qualifiers="pt-rPT" >
+                <string name="ringtone_silent" >"Silencioso"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-be/__internal_strings.xml"
+                qualifiers="be" >
+                <string name="ringtone_silent" >"Ціхі рэжым"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-cs/__internal_strings.xml"
+                qualifiers="cs" >
+                <string name="ringtone_silent" >"Ticho"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-lt/__internal_strings.xml"
+                qualifiers="lt" >
+                <string name="ringtone_silent" >"Tylus"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-zh-rCN/__internal_strings.xml"
+                qualifiers="zh-rCN" >
+                <string name="ringtone_silent" >"静音"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-en-rGB/__internal_strings.xml"
+                qualifiers="en-rGB" >
+                <string name="ringtone_silent" >"Silent"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-et/__internal_strings.xml"
+                qualifiers="et" >
+                <string name="ringtone_silent" >"Hääletu"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-sv/__internal_strings.xml"
+                qualifiers="sv" >
+                <string name="ringtone_silent" >"Tyst"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-pl/__internal_strings.xml"
+                qualifiers="pl" >
+                <string name="ringtone_silent" >"Cichy"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-de/__internal_strings.xml"
+                qualifiers="de" >
+                <string name="ringtone_silent" >"Lautlos"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-hi/__internal_strings.xml"
+                qualifiers="hi" >
+                <string name="ringtone_silent" >"मौन"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-fr/__internal_strings.xml"
+                qualifiers="fr" >
+                <string name="ringtone_silent" >"Silencieux"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-es/__internal_strings.xml"
+                qualifiers="es" >
+                <string name="ringtone_silent" >"Silencio"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-it/__internal_strings.xml"
+                qualifiers="it" >
+                <string name="ringtone_silent" >"Silenzioso"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values/atrs.xml"
+                qualifiers="" >
+                <declare-styleable name="PreferenceHeader" >
+
+                    <!-- Identifier value for the header. -->
+                    <attr
+                        name="id"
+                        format="integer" />
+                    <!-- The title of the item that is shown to the user. -->
+                    <attr name="title" />
+                    <!-- The summary for the item. -->
+                    <attr
+                        name="summary"
+                        format="string" />
+                    <!-- The title for the bread crumb of this item. -->
+                    <attr
+                        name="breadCrumbTitle"
+                        format="string" />
+                    <!-- The short title for the bread crumb of this item. -->
+                    <attr
+                        name="breadCrumbShortTitle"
+                        format="string" />
+                    <!-- An icon for the item. -->
+                    <attr name="icon" />
+                    <!-- The fragment that is displayed when the user selects this item. -->
+                    <attr
+                        name="fragment"
+                        format="string" />
+                    <!-- The resource with the PreferenceScreen to inflate. -->
+                    <attr
+                        name="preferenceRes"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values/__internal_strings.xml"
+                qualifiers="" >
+                <string name="ringtone_silent" >Silent
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-ms/__internal_strings.xml"
+                qualifiers="ms" >
+                <string name="ringtone_silent" >"Senyap"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-vi/__internal_strings.xml"
+                qualifiers="vi" >
+                <string name="ringtone_silent" >"Im lặng"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-fi/__internal_strings.xml"
+                qualifiers="fi" >
+                <string name="ringtone_silent" >"Äänetön"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-sl/__internal_strings.xml"
+                qualifiers="sl" >
+                <string name="ringtone_silent" >"Tiho"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-uk/__internal_strings.xml"
+                qualifiers="uk" >
+                <string name="ringtone_silent" >"Без звуку"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-sk/__internal_strings.xml"
+                qualifiers="sk" >
+                <string name="ringtone_silent" >"Tichý"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-th/__internal_strings.xml"
+                qualifiers="th" >
+                <string name="ringtone_silent" >"ปิดเสียง"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-iw/__internal_strings.xml"
+                qualifiers="iw" >
+                <string name="ringtone_silent" >"שקט"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-ja/__internal_strings.xml"
+                qualifiers="ja" >
+                <string name="ringtone_silent" >"サイレント"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-tl/__internal_strings.xml"
+                qualifiers="tl" >
+                <string name="ringtone_silent" >"Tahimik"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-rm/__internal_strings.xml"
+                qualifiers="rm" >
+                <string name="ringtone_silent" >"Silenzius"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-zh-rTW/__internal_strings.xml"
+                qualifiers="zh-rTW" >
+                <string name="ringtone_silent" >"靜音"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-el/__internal_strings.xml"
+                qualifiers="el" >
+                <string name="ringtone_silent" >"Σίγαση"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-ca/__internal_strings.xml"
+                qualifiers="ca" >
+                <string name="ringtone_silent" >"Silenci"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-zu/__internal_strings.xml"
+                qualifiers="zu" >
+                <string name="ringtone_silent" >"Thulile"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-in/__internal_strings.xml"
+                qualifiers="in" >
+                <string name="ringtone_silent" >"Senyap"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-tr/__internal_strings.xml"
+                qualifiers="tr" >
+                <string name="ringtone_silent" >"Sessiz"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-fa/__internal_strings.xml"
+                qualifiers="fa" >
+                <string name="ringtone_silent" >"ساکت"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-hr/__internal_strings.xml"
+                qualifiers="hr" >
+                <string name="ringtone_silent" >"Bešumno"
+                </string>
+            </file>
+            <file
+                path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values-bg/__internal_strings.xml"
+                qualifiers="bg" >
+                <string name="ringtone_silent" >"Тишина"
+                </string>
+            </file>
+        </source>
+        <source path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/build/res/rs/debug" />
+        <source path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/src/debug/res" />
+    </dataSet>
+
+</merger>

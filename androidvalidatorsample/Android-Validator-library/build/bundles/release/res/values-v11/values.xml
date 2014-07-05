@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/osabe/work/IDEA-workspace/AndroidValidatorSample/Android-Validator-library/res/values-v11/themes.xml -->
+    <eat-comment />
+
+    <style name="Validator.Light" parent="@android:style/Theme.Light" />
+
+</resources>

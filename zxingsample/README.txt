@@ -1,0 +1,1 @@
+xingのライブラリを、build.gradleやProject Structureで登録する方法では、うまくapkファイルが生成しなく、libsにjarファイルを配置する必要があった。

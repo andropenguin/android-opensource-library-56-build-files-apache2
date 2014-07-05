@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res" >
+            <file
+                name="main"
+                path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res/values/strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Page Curl
+                </string>
+            </file>
+            <file
+                name="taipei_101"
+                path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res/drawable/taipei_101.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="world"
+                path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res/drawable/world.gif"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res/drawable/icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="obama"
+                path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res/drawable/obama.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="road_rage"
+                path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/res/drawable/road_rage.jpg"
+                qualifiers=""
+                type="drawable" />
+        </source>
+        <source path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/build/res/rs/debug" />
+        <source path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/osabe/work/IDEA-workspace/PageCurlForAndroid/android_page_curl/src/debug/res" />
+    </dataSet>
+
+</merger>

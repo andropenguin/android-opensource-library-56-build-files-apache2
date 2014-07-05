@@ -1,0 +1,62 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+	classpath 'com.android.tools.build:gradle:0.9.+'
+    }
+}
+
+
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        minSdkVersion 7
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    
+    sourceSets {
+        main {
+            manifest {
+                srcFile 'AndroidManifest.xml'
+            }
+            java {
+                srcDirs = ['src']
+            }
+            res {
+                srcDirs = ['res']
+            }
+            assets {
+                srcDirs = ['assets']
+            }
+            resources {
+                srcDirs = ['src']
+            }
+            aidl {
+                srcDirs = ['src']
+            }
+        }
+        instrumentTest.setRoot('tests')
+    }
+    
+}
+
+dependencies {
+     compile fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+
+

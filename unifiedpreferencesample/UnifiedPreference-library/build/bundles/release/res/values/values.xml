@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values/atrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="PreferenceHeader">
+
+        <!-- Identifier value for the header. -->
+        <attr name="id" format="integer" />
+        <!-- The title of the item that is shown to the user. -->
+        <attr name="title" />
+        <!-- The summary for the item. -->
+        <attr name="summary" format="string" />
+        <!-- The title for the bread crumb of this item. -->
+        <attr name="breadCrumbTitle" format="string" />
+        <!-- The short title for the bread crumb of this item. -->
+        <attr name="breadCrumbShortTitle" format="string" />
+        <!-- An icon for the item. -->
+        <attr name="icon" />
+        <!-- The fragment that is displayed when the user selects this item. -->
+        <attr name="fragment" format="string" />
+        <!-- The resource with the PreferenceScreen to inflate. -->
+        <attr name="preferenceRes" format="reference" />
+    </declare-styleable>
+    <!-- From: file:/home/osabe/work/IDEA-workspace/UnifiedPreferenceSample/UnifiedPreference-library/res/values/__internal_strings.xml -->
+    <eat-comment />
+
+    <string name="ringtone_silent">Silent</string>
+
+</resources>

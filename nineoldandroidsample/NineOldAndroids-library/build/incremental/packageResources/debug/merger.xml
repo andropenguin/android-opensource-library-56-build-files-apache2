@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/osabe/work/IDEA-workspace/NineOldAndroidSample/NineOldAndroids-library/res" />
+        <source path="/home/osabe/work/IDEA-workspace/NineOldAndroidSample/NineOldAndroids-library/build/res/rs/debug" />
+        <source path="/home/osabe/work/IDEA-workspace/NineOldAndroidSample/NineOldAndroids-library/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/osabe/work/IDEA-workspace/NineOldAndroidSample/NineOldAndroids-library/src/debug/res" />
+    </dataSet>
+
+</merger>

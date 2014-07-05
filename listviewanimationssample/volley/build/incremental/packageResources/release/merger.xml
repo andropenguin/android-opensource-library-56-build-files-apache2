@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/osabe/work/IDEA-workspace/VolleySample/volley/res" />
+        <source path="/home/osabe/work/IDEA-workspace/VolleySample/volley/build/res/rs/release" />
+        <source path="/home/osabe/work/IDEA-workspace/VolleySample/volley/build/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/osabe/work/IDEA-workspace/VolleySample/volley/src/release/res" />
+    </dataSet>
+
+</merger>
