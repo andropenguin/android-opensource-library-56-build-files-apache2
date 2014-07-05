@@ -3,7 +3,7 @@
 
 ## 使い方
 
-IntelliJ IDEA(あるいは、Android Studio。ただし、Android Studioでのビルドは未検証)で、Androidプロジェクトを作り、このリポジトリのbuild.gradleファイルの内容に従って、ファイルを編集する。libsにjarファイルを配置してあるプロジェクトに関しては、jarファイルを配置する。ライブラリモジュールが含まれているプロジェクトに関しては、それをプロジェクトにコピーする。なお、マニフェストファイル、ライブラリモジュールのbuild.gradle、アプリモジュールのbuild.gradleで、minSdkVersionやtargetSdkVersionを同じにしないとビルドできないケースもあった。Project Structureで設定する必要はない(と思う)。
+IntelliJ IDEA(あるいは、Android Studio。ただし、Android Studioでのビルドは未検証)で、Androidプロジェクトを作り、このリポジトリのbuild.gradleファイルの内容に従って、ファイルを編集する。libsにjarファイルを配置してあるプロジェクトに関しては、jarファイルを配置する。ライブラリモジュールが含まれているプロジェクトに関しては、それをプロジェクトにコピーする。また、settings.gradleファイルを編集する。なお、マニフェストファイル、ライブラリモジュールのbuild.gradle、アプリモジュールのbuild.gradleで、minSdkVersionやtargetSdkVersionを同じにしないとビルドできないケースもあった。Project Structureで設定する必要はない(と思う)。
 
 ## 注意
 
