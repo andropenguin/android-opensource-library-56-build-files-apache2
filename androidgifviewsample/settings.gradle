@@ -1,0 +1,1 @@
+include ':androidgifviewsample', ':GifPlayer-library'
